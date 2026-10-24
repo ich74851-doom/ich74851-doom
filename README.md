@@ -77,3 +77,30 @@ AI tooling.
 | [**backup-dr-powershell-toolkit**](https://github.com/ich74851-doom/backup-dr-powershell-toolkit) | PowerShell scripts for VSS writer health, repository free space, backup event log triage, Veeam job reports, and an emailed HTML backup health report. Linted with PSScriptAnalyzer and tested with Pester in CI. |
 | [**n8n-ai-ticket-analysis**](https://github.com/ich74851-doom/n8n-ai-ticket-analysis) | Sanitized template of an n8n + Claude workflow I built at work. It pulls Autotask tickets, finds recurring issues and root causes, flags vulnerabilities with remediation steps, and scores a client growth/risk index. |
 | [**dr-runbooks**](https://github.com/ich74851-doom/dr-runbooks) | Vendor-neutral templates: ransomware recovery, bare metal recovery, quarterly DR test plan and report, RPO/RTO worksheet, backup troubleshooting, Microsoft 365 restore SOP, 3-2-1-1-0 hardening checklist. |
+
+### Experience
+
+**Backup & Disaster Recovery Analyst**, TechPIO Services LLP · *May 2024 – Present*
+
+- Run enterprise backup environments across multiple managed client environments,
+  with a ~99% backup success rate.
+- Resolve VSS, storage, network and application-aware backup failures, and document
+  root cause analysis.
+- Perform file, SQL, Microsoft 365, VM and bare-metal restores. Run quarterly DR
+  testing, and deliver zero data loss on ransomware recovery engagements.
+- Build PowerShell and automation scripts that improve backup monitoring and alerting,
+  and maintain SOPs, runbooks and restoration procedures.
+
+### Certifications
+
+- Microsoft 365 Certified: Fundamentals (MS-900)
+- Liongard Certified Administrator Assessment
+- Veeam Data Platform Onboarding
+- Cloud-to-Cloud Backup for MSPs
+- Disaster Recovery for Ransomware-Affected Clients
+
+### Education
+
+- **MBA, Information Technology**, Amity Online University (2025)
+- **B.Tech, Electrical Engineering**, Govt. Hydro Engineering College (2023)
+- **Diploma, Cloud Computing & Network Engineering**, Jetking
