@@ -34,7 +34,7 @@ AI tooling.
 
 ### Tech stack
 
-**Backup & DR**
+#### Backup & DR
 
 ![N-able Cove](https://img.shields.io/badge/N--able_Cove-Data_Protection-1E5AA8?style=flat-square)
 ![Veeam](https://img.shields.io/badge/Veeam-Backup_%26_Replication-00B336?style=flat-square)
@@ -43,7 +43,7 @@ AI tooling.
 ![Barracuda](https://img.shields.io/badge/Barracuda-Backup-005EB8?style=flat-square)
 ![M365 Backup](https://img.shields.io/badge/Microsoft_365-Cloud--to--Cloud_Backup-D83B01?style=flat-square)
 
-**Infrastructure**
+#### Infrastructure
 
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
@@ -52,7 +52,7 @@ AI tooling.
 ![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D6?style=flat-square&logo=microsoft&logoColor=white)
 ![NAS Storage](https://img.shields.io/badge/NAS-Storage-555555?style=flat-square)
 
-**RMM, security & monitoring**
+#### RMM, security & monitoring
 
 ![NinjaOne](https://img.shields.io/badge/NinjaRMM-333333?style=flat-square)
 ![Datto RMM](https://img.shields.io/badge/Datto_RMM-199ED9?style=flat-square)
@@ -62,7 +62,7 @@ AI tooling.
 ![RocketCyber](https://img.shields.io/badge/RocketCyber-SOC%2FMDR-C62828?style=flat-square)
 ![Liongard](https://img.shields.io/badge/Liongard-Documentation-F9A825?style=flat-square)
 
-**Automation & AI**
+#### Automation & AI
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
