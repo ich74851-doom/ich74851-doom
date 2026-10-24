@@ -104,3 +104,11 @@ AI tooling.
 - **MBA, Information Technology**, Amity Online University (2025)
 - **B.Tech, Electrical Engineering**, Govt. Hydro Engineering College (2023)
 - **Diploma, Cloud Computing & Network Engineering**, Jetking
+
+### GitHub stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ich74851-doom&show_icons=true&hide_border=true&count_private=false)
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ishant_Choudhary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishant-choudhary-bb60b6210)
